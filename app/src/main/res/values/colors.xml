@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkGray">#505050</color>
+    <color name="blue">#2196F3</color> <!-- Синий цвет -->
+    <color name="green">#4CAF50</color> <!-- Зелёный цвет -->
+</resources>

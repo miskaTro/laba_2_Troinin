@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@color/darkGray" /> <!-- Цвет при нажатии -->
+    <item android:drawable="@color/white" /> <!-- Основной цвет -->
+    <!-- Состояние нажатия -->
+    <item android:drawable="@color/green" android:state_pressed="true"/>
+    <!-- Нормальное состояние -->
+    <item android:drawable="@color/blue"/>
+</selector>
